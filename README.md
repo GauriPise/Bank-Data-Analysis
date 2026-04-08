@@ -1,4 +1,4 @@
-# 🏦 Bank Data Analysis Dashboard
+# 🏦 Bank Data Analysis 
 
 
 ## 📑 Table of Contents
