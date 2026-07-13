@@ -1,4 +1,4 @@
-# 🏦 Bank Data Analysis 
+# 🏦 Bank Data Analysis
 
 
 ## 📑 Table of Contents
